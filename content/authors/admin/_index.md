@@ -3,7 +3,7 @@
 title: Binu A
 
 # Name pronunciation (optional)
-name_pronunciation: Binu A
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Binu
